@@ -8,7 +8,7 @@ I'm a **Data Engineer in training**, focusing on **Azure Data Engineering**.
 - 🔭 Currently working on Azure Data Factory, Synapse, and Databricks projects
 - 🌱 Learning **Python, SQL, Azure Data Engineering**
 - 💬 Ask me about **Python, SQL, NumPy, Pandas**
-- 📫 How to reach me: salapudhanunjay@example.com
+- 📫 How to reach me: salapudhanunjay@gmail.com
 
 ### Skills
 - **Python Libraries:** Pandas, NumPy
