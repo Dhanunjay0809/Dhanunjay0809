@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Dhanu09-DS/Dhanu09-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Engineer in training**, focusing on **Azure Data Engineering**.
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=Dhanu09-DS&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 Currently working on Azure Data Factory, Synapse, and Databricks projects
+- 🌱 Learning **Python, SQL, Azure Data Engineering**
+- 💬 Ask me about **Python, SQL, NumPy, Pandas**
+- 📫 How to reach me: salapudhanunjay@example.com
+- 
+### Skills
+- **Python Libraries:** Pandas, NumPy
+- **Cloud Platforms:** Azure Data Factory, Azure Synapse Analytics, Azure Databricks
+- **Data Tools:** Power BI, SQL
