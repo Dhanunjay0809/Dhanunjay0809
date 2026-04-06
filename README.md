@@ -32,9 +32,10 @@ Aspiring **Data Engineer** with a focus on **Azure Data Engineering** and **scal
 - Data Pipelines
 
 🚀 Projects
-🔹 Data Transformation using PySpark (Databricks)
-🔹 Data Analysis using Pandas & NumPy
-🔹 Interactive Dashboards using Streamlit & Plotly
+- Data Transformation using PySpark (Databricks)
+- Data Analysis using Pandas & NumPy
+- Interactive Dashboards using Streamlit & Plotly
 
 📫 Contact
-📧 Email: salapudhanunjay@gmail.com
+- 📧 Email: salapudhanunjay@gmail.com
+- 📞 Phone: 9581482673
